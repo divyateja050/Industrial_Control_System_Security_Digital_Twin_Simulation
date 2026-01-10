@@ -1,4 +1,4 @@
-# ICS/SCADA Security Project - ## Substation Digital Twin & Intrusion Detection
+# ICS/SCADA Security Project - Substation Digital Twin & Intrusion Detection
 
 ## 📌 Project Overview
 This project involves the development of a functional **Digital Twin** of an electrical substation to analyze vulnerabilities in the **Modbus TCP** protocol. The project demonstrates an end-to-end security lifecycle: from programming industrial logic to executing a remote command injection attack and implementing network-level defenses.
